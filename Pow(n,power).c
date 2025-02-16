@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+// BINARY EXPONENTIATION
 #include <stdio.h>
 
 int poww(int n, int power){
